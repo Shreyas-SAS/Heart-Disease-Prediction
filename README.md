@@ -1,4 +1,4 @@
-# Herat-Disease-Prediction
+# Heart-Disease-Prediction
 
 This model is a basic streamlit representation of the Disease prediction model for predicting heart Diseases through user inputs.
 
